@@ -1,1 +1,2 @@
 Ipconfig /release = new get ip 
+ping ( IP ) = check conction to host 
